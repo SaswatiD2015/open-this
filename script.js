@@ -8,7 +8,7 @@ const buttonsContainer = document.getElementById('buttons-container');
 const proposalContainer = document.getElementById('proposal-container'); 
 
 const noButtonStates = [
-    { main: "Do you love me,Mo Sambeet?", secondary: "Please think again! Remember our beautiful moments? 😥", emoji: "😟" },
+    { main: "i know you love me,Mo Sambeet?", secondary: "Please think again! Remember our beautiful moments? 😥", emoji: "😟" },
     { main: "This better be a joke, my love...", secondary: "Don't break my heart! 💔 (It's not worth it!)", emoji: "😭" },
     { main: "Ek aur baar Soch lo! 🥺", secondary: "kyu aisa kar rahe ho, meri jaan? 😢", emoji: "🥺" },
     { main: "You can't escape this, my love!", secondary: "Baby, Man jao na! I'll buy you bahut sara khana! 😠", emoji: "😠" },
