@@ -10,7 +10,7 @@ const proposalContainer = document.getElementById('proposal-container');
 const noButtonStates = [
     { main: "i know you love me,Mo Sambeet?", secondary: "Please think again! Remember our beautiful moments? 😥", emoji: "😟" },
     { main: "This better be a joke, my love...", secondary: "Don't break my heart! 💔 (It's not worth it!)", emoji: "😭" },
-    { main: "Ek aur baar Soch lo! 🥺", secondary: "kyu aisa kar rahe ho, meri jaan? 😢", emoji: "🥺" },
+    { main: "Ek aur baar Soch lo! 🥺", secondary: "kyu aisa kar rahe ho, mo dhana? 😢", emoji: "🥺" },
     { main: "You can't escape this, my love!", secondary: "Baby, Man jao na! I'll buy you bahut sara khana! 😠", emoji: "😠" },
     { main: "I will cry. I am warning you.", secondary: "Is this how our story ends? Don't be silly! 🤡", emoji: "🥺" },
     { main: "The button knows you love me!", secondary: "You know you want to click yes. Just do it! 😉", emoji: "😏" },
